@@ -1,0 +1,47 @@
+.ant-table-wrapper {
+    width: 900px;
+    padding-left: 8%;
+    padding-top: 8%;
+}
+
+.secondTableName {
+    margin:0;
+    padding-left: 8%;
+    font-size:22px;
+    font-weight: 700;
+}
+
+.firstTableName {
+    margin:0;
+    padding-left: 8%;
+    font-size:22px;
+    font-weight: 700;
+}
+
+.mainPage {
+    flex-direction: column;
+    display: flex;
+    margin-top: 50px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainMenu{
+    height: 37px;
+    border-bottom: 1px solid gray;
+    max-width: 1650px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.mainMenu > a {
+    font-size: 24px;
+    font-weight: 400;
+    margin-right: 20px;
+    color: black;
+}
+.mainMenu > a:hover{
+    border-top:solid white;
+    border-bottom: solid #1890ff;
+}

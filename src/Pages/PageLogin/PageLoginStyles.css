@@ -1,0 +1,45 @@
+.wrapper {
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  flex-direction: column;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: grey;
+  justify-content: center;
+  align-items: center;
+}
+.pageLogin > h1 {
+  margin: 0;
+}
+.ant-form-item-control-input {
+  width: 600px;
+}
+.emailContent::before {
+  display: inline-block;
+  margin-right: 4px;
+  color: #ff4d4f;
+  font-size: 14px;
+  font-family: SimSun, sans-serif;
+  line-height: 1;
+  content: "*";
+}
+.emailContent {
+  font-size: 20px;
+}
+.autorizationP {
+  top: 32%;
+  font-size: 30px;
+  left: 42%;
+  color: white;
+}
+
+.buttonStyle {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
