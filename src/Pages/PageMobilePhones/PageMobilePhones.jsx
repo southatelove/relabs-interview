@@ -10,7 +10,7 @@ const iphones = [
   {
     id: 1,
     icon: iphoneRed,
-    price: "60 000 ₽",
+    price: "60 002 ₽",
     lastprice: "59 500 ₽",
     saleprice: "65000 ₽",
     text: "Смартфон 13 айфон / 1170x2532 / Super Retina XDR / 256 GB",
